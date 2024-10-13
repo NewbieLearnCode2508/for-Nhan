@@ -1,0 +1,300 @@
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\mongocrypt.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\SharpCompress.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\ZstdSharp.dll
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.pdb
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangKy.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangNhap.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmTrangChu.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmDonHang.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmSanPham.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.Up2Date
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\ADMIN\Desktop\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\mongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\SharpCompress.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\ZstdSharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangKy.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangNhap.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmTrangChu.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmDonHang.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmNhanVien.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmSanPham.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.Up2Date
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\mongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\SharpCompress.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\ZstdSharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangKy.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangNhap.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmTrangChu.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmDonHang.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmNhanVien.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmSanPham.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.Up2Date
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\mongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\SharpCompress.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\ZstdSharp.dll
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangKy.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangNhap.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmTrangChu.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmDonHang.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmNhanVien.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmSanPham.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.Up2Date
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\Asus\OneDrive\Máy tính\No_Sql - Copy - Copy\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\mongocrypt.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\SharpCompress.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\ZstdSharp.dll
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.pdb
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.Core.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\DnsClient.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Bson.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\Snappier.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Buffers.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Memory.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.AccessControl.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.AssemblyReference.cache
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangKy.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmDangNhap.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.frmTrangChu.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmDonHang.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmNhanVien.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmPhieuNhap.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.MenuTab.frmSanPham.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.cache
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.csproj.Up2Date
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\trant\Desktop\NoSqlProject\QL_CuaHangVatLieuXayDung\GiaoDien\obj\Debug\GiaoDien.pdb
